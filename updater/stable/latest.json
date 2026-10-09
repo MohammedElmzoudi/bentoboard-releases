@@ -1,0 +1,12 @@
+{
+  "installer_delivery": "account",
+  "version": "0.1.37",
+  "notes": "BentoBoard for macOS\n\nIncludes the latest approved app changes and fixes a race that could delay automatic update discovery when background checks overlap.\n",
+  "pub_date": "2026-10-08T18:19:45.000Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRXBrdFFZcHVpbm1aR1NqVUhCRlhTK0Fuay93MFZza2d4UWtMQkFNcHpha28vVWxxU3VtNWI4R2ZnellWeFpDQUpNWmJIdkRCbXVWR0t5YXVFd1NJNU5NaDZ2YWRmdWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTAwNzQ3CWZpbGU6QmVudG9Cb2FyZC5hcHAudGFyLmd6CnlKY0gvNE16aDRqZFk5dkZEK1ZxczVPSnhHMmdVU2gwdTBJT09kTWpJVU1qMUZXYzhKdFZsT3YrNjBHelFsWXlVampuRXVMY3pzOUJOUUorZXBPdURnPT0K",
+      "url": "https://github.com/MohammedElmzoudi/bentoboard-releases/releases/download/v0.1.37/BentoBoard_0.1.37_aarch64.app.tar.gz"
+    }
+  }
+}
