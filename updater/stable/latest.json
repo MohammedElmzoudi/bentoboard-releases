@@ -1,12 +1,12 @@
 {
   "installer_delivery": "account",
-  "version": "0.1.37",
-  "notes": "BentoBoard for macOS\n\nIncludes the latest approved app changes and fixes a race that could delay automatic update discovery when background checks overlap.\n",
-  "pub_date": "2026-10-08T18:19:45.000Z",
+  "version": "0.1.40",
+  "notes": "BentoBoard 0.1.40\n\nImproved sync recovery and startup responsiveness, clearer agent setup progress and connection status, and smoother window switching after changing the Main screen edge.\n",
+  "pub_date": "2026-10-12T17:22:46.000Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRXBrdFFZcHVpbm1aR1NqVUhCRlhTK0Fuay93MFZza2d4UWtMQkFNcHpha28vVWxxU3VtNWI4R2ZnellWeFpDQUpNWmJIdkRCbXVWR0t5YXVFd1NJNU5NaDZ2YWRmdWdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTAwNzQ3CWZpbGU6QmVudG9Cb2FyZC5hcHAudGFyLmd6CnlKY0gvNE16aDRqZFk5dkZEK1ZxczVPSnhHMmdVU2gwdTBJT09kTWpJVU1qMUZXYzhKdFZsT3YrNjBHelFsWXlVampuRXVMY3pzOUJOUUorZXBPdURnPT0K",
-      "url": "https://github.com/MohammedElmzoudi/bentoboard-releases/releases/download/v0.1.37/BentoBoard_0.1.37_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRXBrdFFZcHVpbmxES1BnVEdhbnpzQlVwdTNEQy95NnQwN25VMEtIWndNcFRIKzI1K0daaFpOV1QzSk1xbFpWVHo0UWZmeFlWcnlOaUg0QnNGb2F6K2FKcytTUGUweWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODI5MzA3CWZpbGU6QmVudG9Cb2FyZC5hcHAudGFyLmd6CjlkREdwOFpyTUlnOTlSOGNuczB4STdZK0hWNmd6NGR6QVRyQXhkL29Xd2tmMlJhQUFKTHNDYzcvWDZJM0RCS3lpdFVlRUd2UUFWOEdobEdnRm5vVUNnPT0K",
+      "url": "https://github.com/MohammedElmzoudi/bentoboard-releases/releases/download/v0.1.40/BentoBoard_0.1.40_aarch64.app.tar.gz"
     }
   }
 }
