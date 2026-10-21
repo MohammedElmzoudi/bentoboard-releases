@@ -1,12 +1,12 @@
 {
   "installer_delivery": "account",
-  "version": "0.1.40",
-  "notes": "BentoBoard 0.1.40\n\nImproved sync recovery and startup responsiveness, clearer agent setup progress and connection status, and smoother window switching after changing the Main screen edge.\n",
-  "pub_date": "2026-10-12T17:22:46.000Z",
+  "version": "0.1.43",
+  "notes": "Improved native Code Workspace, window restoration, and fullscreen behavior. Floating windows and the native editor now respect the macOS menu and notch safe area, including hide/show and minimize/restore. Includes the latest master fixes and native editor companion 0.5.14.\n",
+  "pub_date": "2026-10-21T09:23:35.000Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRXBrdFFZcHVpbmxES1BnVEdhbnpzQlVwdTNEQy95NnQwN25VMEtIWndNcFRIKzI1K0daaFpOV1QzSk1xbFpWVHo0UWZmeFlWcnlOaUg0QnNGb2F6K2FKcytTUGUweWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODI5MzA3CWZpbGU6QmVudG9Cb2FyZC5hcHAudGFyLmd6CjlkREdwOFpyTUlnOTlSOGNuczB4STdZK0hWNmd6NGR6QVRyQXhkL29Xd2tmMlJhQUFKTHNDYzcvWDZJM0RCS3lpdFVlRUd2UUFWOEdobEdnRm5vVUNnPT0K",
-      "url": "https://github.com/MohammedElmzoudi/bentoboard-releases/releases/download/v0.1.40/BentoBoard_0.1.40_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSRXBrdFFZcHVpbnNPYVdjMEdweDJUcGJMeEpJMFI3aGlLZEdrWHpMbXBQTmR2UG1QeG5tV01tK3hVbkdjNXYrWEx4WW5qUk9takhzY3JnbWJTWFZ4U1V0V2ZiN2l6MHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTczNzEyCWZpbGU6QmVudG9Cb2FyZC5hcHAudGFyLmd6CkxwdlhyOG1CeXJieUdjK3lYU2VFTjRqQldjbmtCQ3NLU3JnZ3RqZlQyUkN1TDR6bzJKd1lxemVUK1hiYytVNFYzKy9PbTduL3ZFdFpUNVRuMzNFUURBPT0K",
+      "url": "https://github.com/MohammedElmzoudi/bentoboard-releases/releases/download/v0.1.43/BentoBoard_0.1.43_aarch64.app.tar.gz"
     }
   }
 }
